@@ -291,10 +291,12 @@ nav a.active {
 }
 
 /* Contact */
-.divider {
-    padding: 20px;
+.contact {
+    padding: 10px;
     border-radius: 8px;
-    margin: 20px 0;
+    margin: 10px 0;
+    text-align: center; 
+    font-size: 25px; 
     background: linear-gradient(to bottom, #800000, #000000);
 }
 
